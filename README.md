@@ -5,3 +5,4 @@
 - 👀 I’m interested in application development, any area of machine learning and helping others.
 - 📫 My e-mail address: ozanbaskan7@gmail.com
 
+- I recently started working as a software developer.
