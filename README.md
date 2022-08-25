@@ -1,4 +1,4 @@
-[![Ozan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozanbaskan)](https://github.com/anuraghazra/github-readme-stats)
+[![Ozan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozanbaskan&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 👋 Hello, my name is Ozan, I am from Istanbul/Turkey. I am a senior year medicine dropout who likes science and computers.
