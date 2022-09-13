@@ -2,6 +2,6 @@
 
 - 👋 Hello, my name is Ozan, I am from Istanbul/Turkey. I am a senior year medicine dropout who loves science and computers.
 - 💼 I am currently working as a back-end developer for a b2b company for suppliers and restaurants located in Dubai. 
-- 🎖️ I am capable of learning and adapting extremely fast.
+- 🎖️ I am capable of learning and adapting fast.
 - 👀 I’m interested in machine learning, cryptology, mathematics, algorithms.
 - 📫 Contact me on ozanbaskan7@gmail.com.
